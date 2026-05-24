@@ -36,3 +36,6 @@
 <p align="center">
   💬 Have questions or ideas? Join our <a href="https://discord.gg/vbk3cTdg">Discord community</a> — connect with the FireForm team, ask questions, and help shape the future of emergency documentation.
 </p>
+
+<br>
+
