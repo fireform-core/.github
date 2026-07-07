@@ -8,9 +8,16 @@
 
 <h5 align="center">
 
-[FireForm](https://fireform-core.github.io/FireForm/) is a recognized Digital Public Good (DPG) from the United Nations and the 1st Place Winner of the Reboot the Earth hackathon. It is an open-source "report once, file everywhere" system that eliminates redundant paperwork for first responders like firefighters, saving hundreds of hours per shift.
+[FireForm](https://fireform-core.github.io/FireForm/) is a recognized Digital Public Good (DPG) from the United Nations and the 1st Place Winner of the Reboot the Earth hackathon. It is an open-source platform for digital public goods.
 
 </h5>
+
+<br>
+
+<p align="center">
+   <a href="https://digitalpublicgoods.net" target="_blank"><img src="https://img.shields.io/badge/Recognized%20DPG-United%20Nations-4CAF50?style=for-the-badge" alt="Recognized as a Digital Public Good"></a>
+   &nbsp;
+</p>
 
 <br>
 
@@ -36,3 +43,20 @@
 <p align="center">
   💬 Have questions or ideas? Join our <a href="https://discord.gg/vbk3cTdg">Discord community</a> — connect with the FireForm team, ask questions, and help shape the future of emergency documentation.
 </p>
+
+<br>
+
+---
+
+## 🏷️ Repository Tags
+
+To increase project visibility, this repository includes the following tags:
+- `digital-public-goods`
+- `dpg`
+- `sdg-1`, `sdg-2`, `sdg-3` *(and other relevant Sustainable Development Goals)*
+
+These tags help other contributors discover this project through GitHub's explore pages and listings.
+
+---
+
+<br>
