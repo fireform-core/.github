@@ -23,7 +23,8 @@
   	&nbsp;
    <a href="mailto:contact@fireform.example.com" target="_blank"><img src="https://img.shields.io/badge/Email Us-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
   	&nbsp;
-   <a href="https://discord.gg/vbk3cTdg" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+   <a href="https://discord.gg/VDduBvBHA"
+         target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
   	&nbsp;
    <a href="https://fireform-core.github.io/FireForm/" target="_blank"><img src="https://img.shields.io/badge/Documentation-FF914D?style=for-the-badge&logo=mdnwebdocs&logoColor=white"></a>
   	&nbsp;
